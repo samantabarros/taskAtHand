@@ -1,0 +1,15 @@
+{
+    "name": "takAtHand",
+    "version": "1.0.0",
+    "description": "",
+    "main": "taskAtHand.js",
+    "scripts": {
+        "start": "node taskAtHand"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
