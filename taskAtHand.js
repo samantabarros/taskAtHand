@@ -1,15 +1,3 @@
-const express = require ("express");
-const app = express();
-
-const port = process.env.PORT || 3000;
-
-app.get("/", function(req, res){
-  res.send("Olá");
-});
-
-app.listen(port, () => {
-  console.info('Aplicação rodando em https://localhost:$(port)}');
-});
 
 const inputElement = document.querySelector(".new-task-input");
 const addTaskButton = document.querySelector(".new-task-button");
