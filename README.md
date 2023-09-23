@@ -1,2 +1,2 @@
-# :pencil: taskAtHand :heavy_check_mark:
+# Task at Hand :pencil:
 ##Lista de tarefas simples com HTML, CSS, JavaScript
